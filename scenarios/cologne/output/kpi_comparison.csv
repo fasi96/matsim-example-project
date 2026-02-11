@@ -1,0 +1,6 @@
+scenario,avg_travel_time_min,p95_travel_time_min,peak_hour_avg_travel_time_min,vkt_km,vht_hours,num_trips,num_agents
+Baseline (0%),7.37,12.65,7.58,169,4.9,40,50
+Coordinated 1%,7.37,12.65,7.58,169,4.9,40,50
+Coordinated 2%,7.37,12.65,7.58,169,4.9,40,50
+Coordinated 5%,7.37,12.65,7.54,169,4.9,40,50
+Coordinated 10%,7.37,12.65,7.54,169,4.9,40,50
